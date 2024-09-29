@@ -36,12 +36,13 @@ Create a MySQL database (e.g., blog_platform).
 Import the provided SQL file located in the database folder to create the necessary tables.
 Update the db.php file in the config folder with your database credentials.
 3. **Start XAMPP:**
-
+```bash
 Open XAMPP and start the Apache and MySQL services.
 4. **Access the Application:**
-
+```bash
 Open your web browser and go to http://localhost/blog-folder/public/index.php.
 5. **Directory Structure**
+```bash
 /blog-folder
     /assets             # Contains CSS and JavaScript files
     /controllers        # PHP scripts for handling requests
