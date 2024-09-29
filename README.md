@@ -31,7 +31,7 @@ This is a blog platform that allows users to create, manage, and publish their o
    git clone https://github.com/arbaz5656/blog-platform.git
    cd blog-platform
 2. **Set Up Database:**
-
+```bash
 Create a MySQL database (e.g., blog_platform).
 Import the provided SQL file located in the database folder to create the necessary tables.
 Update the db.php file in the config folder with your database credentials.
