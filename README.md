@@ -39,10 +39,10 @@ Update the db.php file in the config folder with your database credentials.
    ```bash
 Open XAMPP and start the Apache and MySQL services.
 4. **Access the Application:**
-```bash
+   ```bash
 Open your web browser and go to http://localhost/blog-folder/public/index.php.
 5. **Directory Structure**
-```bash
+  ```bash
 /blog-folder
     /assets             # Contains CSS and JavaScript files
     /controllers        # PHP scripts for handling requests
